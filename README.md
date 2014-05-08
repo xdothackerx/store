@@ -4,4 +4,4 @@ Sample store app made while following the RailsCast #417. Provides a nicely laid
 
 <h5>PREVIEW SCREENSHOTS</h5>
 
-![HomePage](https://raw.github.com/xdothackerx/store/public/img/preview.png)
+![HomePage](https://raw.githubusercontent.com/xdothackerx/store/master/public/img/preview.png)
